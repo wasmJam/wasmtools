@@ -15,11 +15,19 @@
 
 const entries = [
   {
- title : "WasmJam",
-  link : "https://wasmjam.github.io/wasmtools/",
-  description : "A collection of tools for working with WebAssembly",
-  author : "WasmJam",
-  github : "wasmjam/wasmtools",
+    title: "argocd",
+    link: "",
+    description: "Declarative continuous deployment for Kubernetes",
+    tag: "Continuous Integration & Delivery",
+    github: "argoproj/argo-cd",
+  },
+
+  {
+    title: "agola",
+    link: "",
+    description: "Agola: CI/CD Redefined ",
+    tag: "Continuous Integration & Delivery",
+    github: "agola-io/agola",
   },
 ];
 
