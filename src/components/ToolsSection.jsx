@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import  entries  from "../data/entries";
+import  entries  from "../data/entries.js";
 import ToolCard from "./ToolCard";
 function ToolsSection() {
     const [search, setSearch] = useState("");
