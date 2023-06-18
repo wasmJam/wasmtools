@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import  entries from "../data/entries.js";
-import ToolCard from "./ToolCard.jsx";
+import entries from "../data/entries.js";
+import ToolCard from "./ToolCard";
 function ToolsSection() {
     const [search, setSearch] = useState("");
     const [selectVal, setSelectVal] = useState("");
