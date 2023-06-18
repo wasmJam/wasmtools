@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import  entries from "../data/entries";
+import  entries  from "../data/entries";
 import ToolCard from "./ToolCard";
 function ToolsSection() {
     const [search, setSearch] = useState("");
@@ -50,5 +50,5 @@ function ToolsSection() {
         </div>
     );
 }
+export default ToolsSection ;
 
-export default ToolsSection;

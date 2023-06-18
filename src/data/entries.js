@@ -14,15 +14,9 @@
  */
 
 const entries = [
-  //A
-
-  {
-    title: "argocd",
-    link: "",
-    description: "Declarative continuous deployment for Kubernetes",
-    tag: "Continuous Integration & Delivery",
-    github: "argoproj/argo-cd",
-  }
-
+  
  
-]
+
+];
+
+export default entries;
