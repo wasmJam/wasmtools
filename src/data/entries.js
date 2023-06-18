@@ -14,9 +14,13 @@
  */
 
 const entries = [
-  
- 
-
+  {
+ title : "WasmJam",
+  link : "https://wasmjam.github.io/wasmtools/",
+  description : "A collection of tools for working with WebAssembly",
+  author : "WasmJam",
+  github : "wasmjam/wasmtools",
+  },
 ];
 
 export default entries;
