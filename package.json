@@ -1,9 +1,9 @@
 {
-  "name": "kubeDailyTools",
+  "name": "wasmtools",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://kubedaily.com/Kubernetes-CloudNative-Toolkits/",
+  "homepage": "https://wasmjam.github.io/wasmtools/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

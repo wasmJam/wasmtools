@@ -22,7 +22,7 @@ const entries = [
     description: "Declarative continuous deployment for Kubernetes",
     tag: "Continuous Integration & Delivery",
     github: "argoproj/argo-cd",
-  },
+  }
 
  
 ]
