@@ -16,11 +16,7 @@
 const entries = [
   //A
 
-  {
+  //B
 
-    title: 'AssemblyScript',
-    link: 'https://www.assemblyscript.org/',
-    description: 'AssemblyScript compiles a strict variant of TypeScript (a typed superset of JavaScript) to WebAssembly using Binaryen.',
-  }
-  ,
+ 
 ]
