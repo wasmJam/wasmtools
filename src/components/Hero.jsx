@@ -14,10 +14,10 @@ function Hero() {
               Ultimate WebAssembly (wasm) ecosystem.
             </h1>
             <h3 className="text-grayFill md:text-xl">
-              Submit Your Favourite Open Source Tool
+              Submit Your Favourite WASM Tool
             </h3>
             <div className="flex flex-col md:flex-row justify-center gap-5 mt-4">
-              <Button text={"Submit an Entry"} link={"https://github.com/wasmJam/wasmtools/blob/main/src/data/entries.js"} />
+              <Button text={"Submit Tool"} link={"https://github.com/wasmJam/wasmtools/blob/main/src/data/entries.js"} />
               <Button text={"Github"} link={"https://github.com/wasmJam/wasmtools"} />
               <Button
                 text={"Join Us on Discord"}
