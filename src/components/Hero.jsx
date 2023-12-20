@@ -1,5 +1,5 @@
 import React from "react";
-import kubetools from "../assets/kubeDaily-Tools.png";
+import kubetools from "../assets/wasmtools.png";
 import Button from "./Button";
 function Hero() {
   return (
@@ -11,14 +11,14 @@ function Hero() {
         <div>
           <div>
             <h1 className="text-primary text-[28px] md:text-4xl ">
-              Ultimate Kubenetes & CloudNative Toolkits
+              Ultimate WebAssembly (wasm) ecosystem.
             </h1>
             <h3 className="text-grayFill md:text-xl">
               Submit Your Favourite Open Source Tool
             </h3>
             <div className="flex flex-col md:flex-row justify-center gap-5 mt-4">
-              <Button text={"Submit an Entry"} link={"https://github.com/sangam14/Kubernetes-CloudNative-Toolkits/blob/main/src/data/entries.js"} />
-              <Button text={"Github"} link={"https://github.com/sangam14/Kubernetes-CloudNative-Toolkits"} />
+              <Button text={"Submit an Entry"} link={"https://github.com/wasmJam/wasmtools/blob/main/src/data/entries.js"} />
+              <Button text={"Github"} link={"https://github.com/wasmJam/wasmtools"} />
               <Button
                 text={"Join Us on Discord"}
                 link={"https://discord.com/invite/rEvr7vq"}
