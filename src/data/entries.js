@@ -15,18 +15,6 @@
 
 const entries = [
   {
-<<<<<<< HEAD
-    "title": "emscripten-core",
-    "link": NaN,
-    "description": "Emscripten: An LLVM-to-WebAssembly Compiler",
-    "tag": "compiler",
-    "github": "emscripten-core/emscripten"
-  },
-  {
-    "title": "binaryen",
-    "link": NaN,
-    "description": "Optimizer and compiler/toolchain library for WebAssembly",
-=======
     "title": "assemblyscript",
     "link": NaN,
     "description": "A TypeScript-like language for WebAssembly",
@@ -37,13 +25,10 @@ const entries = [
     "title": "Bytecoder",
     "link": NaN,
     "description": "Framework to interpret and transpile JVM bytecode to JavaScript, OpenCL or WebAssembly.",
->>>>>>> 3221912 (add)
     "tag": "compiler",
     "github": "WebAssembly/binaryen"
   },
   {
-<<<<<<< HEAD
-=======
     "title": "binaryen",
     "link": NaN,
     "description": "Optimizer and compiler/toolchain library for WebAssembly",
@@ -72,7 +57,6 @@ const entries = [
     "github": "i-net-software/JWebAssembly"
   },
   {
->>>>>>> 3221912 (add)
     "title": "tinygo",
     "link": NaN,
     "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",
@@ -80,28 +64,14 @@ const entries = [
     "github": "tinygo-org/tinygo"
   },
   {
-<<<<<<< HEAD
-    "title": "Bytecoder",
-    "link": NaN,
-    "description": "Framework to interpret and transpile JVM bytecode to JavaScript, OpenCL or WebAssembly.",
-    "tag": "compiler",
-    "github": "mirkosertic/Bytecoder"
-  },
-  {
-    "title": "assemblyscript",
-    "link": NaN,
-    "description": "A TypeScript-like language for WebAssembly",
-    "tag": "compiler",
-    "github": "AssemblyScript/assemblyscript"
-=======
     "title": "waforth",
     "link": NaN,
     "description": "Small but complete dynamic Forth Interpreter/Compiler for and in WebAssembly",
     "tag": "compiler",
     "github": "remko/waforth"
->>>>>>> 3221912 (add)
   }
 ];
+
 
 
 export default entries;
