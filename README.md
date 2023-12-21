@@ -1,8 +1,7 @@
 
-<center><img src="WASMJAM.png" width="155" height="155" >
-      <h1> Wasm Tools </h1>
-      Ultimate Collection WebAssembly (WASM) Toolkit.
-</center>
+<img src="WASMJAM.png" width="155" height="155" align="center">
+<h1> Wasm Tools </h1>
+Ultimate Collection Of WebAssembly (WASM) Toolkit
 
 
 ## How to install locally

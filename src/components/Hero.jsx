@@ -11,7 +11,7 @@ function Hero() {
         <div>
           <div>
             <h1 className="text-primary text-[28px] md:text-4xl ">
-            Ultimate Collection WebAssembly (WASM) Toolkit
+            Ultimate Collection Of WebAssembly (WASM) Toolkit
             </h1>
             <h3 className="text-grayFill md:text-xl">
               Submit Your Favourite WASM Tool
