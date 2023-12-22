@@ -12,7 +12,6 @@
  *     compatibleBrowsers?: array // browsers that this page is compatible with
  * }
  */
-
 const entries = [
   {
     "title": "assemblyscript",
@@ -69,9 +68,29 @@ const entries = [
     "description": "Small but complete dynamic Forth Interpreter/Compiler for and in WebAssembly",
     "tag": "compiler",
     "github": "remko/waforth"
+  },
+  {
+    "title": "wasmtime",
+    "link": NaN,
+    "description": "WebAssembly Profiler based on Wazero",
+    "tag": "profiler",
+    "github": "bytecodealliance/wasmtime"
+  },
+  {
+    "title": "wasm-score",
+    "link": NaN,
+    "description": "A benchmark for standalone WebAssembly",
+    "tag": "benchmark ",
+    "github": "bytecodealliance/wasm-score"
+  },
+  {
+    "title": "wabt",
+    "link": NaN,
+    "description": "The WebAssembly Binary Toolkit",
+    "tag": "binary",
+    "github": "WebAssembly/wabt"
   }
 ];
-
 
 
 export default entries;
