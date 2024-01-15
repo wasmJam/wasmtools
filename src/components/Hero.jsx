@@ -23,7 +23,7 @@ function Hero() {
                 text={"Join Us on Discord"}
                 link={"https://discord.com/invite/rEvr7vq"}
               />
-              <Button text={"The Complete WebAssembly Course"} link={"https://www.youtube.com/watch?v=eYekV2Do0YU"} />
+              <Button text={"The Complete WebAssembly Course"} link={"https://youtu.be/eYekV2Do0YU"} />
             </div>
           </div>
         </div>
