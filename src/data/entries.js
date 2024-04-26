@@ -46,7 +46,7 @@ const entries = [
     "link": "https://pypi.org/project/componentize-py/",
     "description": "A tool to convert a Python application to a WebAssembly component.",
     "tag": "compiler",
-    "github": "  bytecodealliance/componentize-py"
+    "github": "bytecodealliance/componentize-py"
   },
   {
     "title": "emscripten-core",
