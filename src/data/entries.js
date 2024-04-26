@@ -42,6 +42,13 @@ const entries = [
     "github": "leaningtech/cheerp-compiler"
   },
   {
+    "title": "componentize-py",
+    "link": "https://pypi.org/project/componentize-py/",
+    "description": "A tool to convert a Python application to a WebAssembly component.",
+    "tag": "compiler",
+    "github": "  bytecodealliance/componentize-py"
+  },
+  {
     "title": "emscripten-core",
     "link": NaN,
     "description": "Emscripten: An LLVM-to-WebAssembly Compiler",
@@ -54,6 +61,20 @@ const entries = [
     "description": "Java bytecode to WebAssembly compiler",
     "tag": "compiler",
     "github": "i-net-software/JWebAssembly"
+  },
+  {
+    "title": "Spin",
+    "link": "https://developer.fermyon.com/spin/v2/index",
+    "description": "A free open-source framework for building and running serverless applications powered by WebAssembly.",
+    "tag": "framework",
+    "github": "fermyon/spin"
+  },
+  {
+    "title": "SpinKube",
+    "link": "https://www.spinkube.dev/",
+    "description": "A free open-source project that streamlines developing, deploying and operating WebAssembly workloads in Kubernetes.",
+    "tag": "project",
+    "github": "spinkube"
   },
   {
     "title": "tinygo",
@@ -71,7 +92,7 @@ const entries = [
   },
   {
     "title": "wasmtime",
-    "link": NaN,
+    "link": "https://docs.wasmtime.dev/",
     "description": "WebAssembly Profiler based on Wazero",
     "tag": "profiler",
     "github": "bytecodealliance/wasmtime"
