@@ -110,6 +110,27 @@ const entries = [
     "description": "The WebAssembly Binary Toolkit",
     "tag": "binary",
     "github": "WebAssembly/wabt"
+  },
+  {
+    "title": "wasmer",
+    "link": "https://wasmer.io/",
+    "description": "WebAssembly Runtime",
+    "tag": "runtime",
+    "github": "wasmerio/wasmer"
+  },
+  {
+    "title": "WinterJS",
+    "link": NaN,
+    "description": "Javascript runtime for the Edge",
+    "tag": "project",
+    "github": "wasmerio/winterjs"
+  },
+  {
+    "title": "py2wasm",
+    "link": NaN,
+    "description": "Python to WebAssembly compiler",
+    "tag": "project",
+    "github": "wasmerio/py2wasm"
   }
 ];
 
